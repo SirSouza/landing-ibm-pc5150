@@ -2,7 +2,7 @@
 
 Uma homenagem visual, técnica e afetiva ao lendário **IBM PC 5150**, o computador pessoal que deu início a tudo. Este projeto foi criado com dedicação por quem tem verdadeira paixão por tecnologia retrô.
 
-![Screenshot do projeto](screenshot.png)
+![Screenshot do projeto](assets/images/Screenshot.png)
 
 ---
 
